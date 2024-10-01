@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yannisctr
+- 👀 I’m interested in skiing
+- 🌱 I’m currently learning C language and soon Java
+- 📫 How to reach me : yannis64450@gmail.com
